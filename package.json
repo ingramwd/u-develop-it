@@ -1,0 +1,22 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingramwd/u-develop-it.git"
+  },
+  "author": "William Ingram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingramwd/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/ingramwd/u-develop-it#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
